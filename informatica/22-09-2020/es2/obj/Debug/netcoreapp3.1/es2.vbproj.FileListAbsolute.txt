@@ -1,0 +1,13 @@
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\obj\Debug\netcoreapp3.1\es2.vbprojAssemblyReference.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\obj\Debug\netcoreapp3.1\es2.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\obj\Debug\netcoreapp3.1\es2.AssemblyInfo.vb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\obj\Debug\netcoreapp3.1\es2.vbproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\bin\Debug\netcoreapp3.1\es2.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\bin\Debug\netcoreapp3.1\es2.deps.json
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\bin\Debug\netcoreapp3.1\es2.runtimeconfig.json
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\bin\Debug\netcoreapp3.1\es2.runtimeconfig.dev.json
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\bin\Debug\netcoreapp3.1\es2.dll
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\bin\Debug\netcoreapp3.1\es2.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\obj\Debug\netcoreapp3.1\es2.dll
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\obj\Debug\netcoreapp3.1\es2.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\22-09-2020\es2\obj\Debug\netcoreapp3.1\es2.genruntimeconfig.cache
