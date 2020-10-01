@@ -1,0 +1,13 @@
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\obj\Debug\netcoreapp3.1\es1.vbprojAssemblyReference.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\obj\Debug\netcoreapp3.1\es1.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\obj\Debug\netcoreapp3.1\es1.AssemblyInfo.vb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\obj\Debug\netcoreapp3.1\es1.vbproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\bin\Debug\netcoreapp3.1\es1.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\bin\Debug\netcoreapp3.1\es1.deps.json
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\bin\Debug\netcoreapp3.1\es1.runtimeconfig.json
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\bin\Debug\netcoreapp3.1\es1.runtimeconfig.dev.json
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\bin\Debug\netcoreapp3.1\es1.dll
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\bin\Debug\netcoreapp3.1\es1.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\obj\Debug\netcoreapp3.1\es1.dll
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\obj\Debug\netcoreapp3.1\es1.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\24-09-2020(Nicholas Dagradi)\es1\obj\Debug\netcoreapp3.1\es1.genruntimeconfig.cache

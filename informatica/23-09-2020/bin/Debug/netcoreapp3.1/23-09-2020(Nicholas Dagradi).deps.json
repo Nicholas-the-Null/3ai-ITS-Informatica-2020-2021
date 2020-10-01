@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "23-09-2020(Nicholas Dagradi)/1.0.0": {
+        "runtime": {
+          "23-09-2020(Nicholas Dagradi).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23-09-2020(Nicholas Dagradi)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
