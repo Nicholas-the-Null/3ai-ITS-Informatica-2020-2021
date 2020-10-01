@@ -4,7 +4,7 @@ i nomi delle cartelle seguono questo syle (gg/mm/yyyy)
 
 
 ## piattaforme usate:
-informatica= visual studio express 2010 (si 2010, non è uno scherzo)
+informatica= visual studio express 2010 (si 2010, non è uno scherzo)\n
 sistemi= visual studio code (linguaggio html)
 
 
