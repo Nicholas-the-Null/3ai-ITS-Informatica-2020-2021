@@ -1,0 +1,8 @@
+G:\vb\29-09-2020\numero_maggiore\numero_maggiore\bin\Release\numero_maggiore.exe
+G:\vb\29-09-2020\numero_maggiore\numero_maggiore\bin\Release\numero_maggiore.pdb
+G:\vb\29-09-2020\numero_maggiore\numero_maggiore\bin\Release\numero_maggiore.xml
+G:\vb\29-09-2020\numero_maggiore\numero_maggiore\obj\x86\Release\ConsoleApplication1.Resources.resources
+G:\vb\29-09-2020\numero_maggiore\numero_maggiore\obj\x86\Release\numero_maggiore.vbproj.GenerateResource.Cache
+G:\vb\29-09-2020\numero_maggiore\numero_maggiore\obj\x86\Release\numero_maggiore.exe
+G:\vb\29-09-2020\numero_maggiore\numero_maggiore\obj\x86\Release\numero_maggiore.xml
+G:\vb\29-09-2020\numero_maggiore\numero_maggiore\obj\x86\Release\numero_maggiore.pdb
