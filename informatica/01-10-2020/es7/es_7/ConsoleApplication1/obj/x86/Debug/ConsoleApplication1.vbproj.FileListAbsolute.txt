@@ -1,0 +1,8 @@
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\01-10-2020(Nicholas Dagradi)\es7\es_7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\01-10-2020(Nicholas Dagradi)\es7\es_7\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\01-10-2020(Nicholas Dagradi)\es7\es_7\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\01-10-2020(Nicholas Dagradi)\es7\es_7\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\01-10-2020(Nicholas Dagradi)\es7\es_7\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\01-10-2020(Nicholas Dagradi)\es7\es_7\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\01-10-2020(Nicholas Dagradi)\es7\es_7\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\01-10-2020(Nicholas Dagradi)\es7\es_7\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
