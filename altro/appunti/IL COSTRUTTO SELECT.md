@@ -38,7 +38,12 @@ un esempio in cui dobbiamo chiedere in input un numero da uno a 2
 
 --------------------------
 Dim numero as Integere
+
+
+
 numero=Console.ReadLine()
+
+
 
 Select Case Numero 
 
@@ -62,6 +67,10 @@ Continua l'esempio
 ---------------------
 Case 1                       'se il numero è uguale a uno entra qui
 'istruzzione
+
+
+
+
 Case 2                        'se invece il numero è 2 entrera qua
 
 -------------------
@@ -82,6 +91,9 @@ Continua l'esempio
 ---------------------
 
 Case Else  
+
+
+
 Console.WriteLine("il numero inserito non è valido")
 --------------------------------------------------------------
 
