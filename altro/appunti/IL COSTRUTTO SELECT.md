@@ -92,14 +92,14 @@ Continua l'esempio
 
 Case Else  
 
-
-
 Console.WriteLine("il numero inserito non è valido")
---------------------------------------------------------------
+
+
 
 
 
 4) Per chiudere il costrutto come nel caso degli If si usava End if qua si usa End Select
+--------------------------------------------------------------
 
 
 
