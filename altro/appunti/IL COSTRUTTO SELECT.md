@@ -132,7 +132,9 @@ Console.WriteLine("il numero inserito non è valido")
 
 
 End Case 
------------------------------------------------------------------------------------------------------------------
+
+
 
 In conclusione il costrutto select case puo sostituire il costrutto if, soltanto per una questione di leggibilità ma le loro funzioni sono equivalenti
+-----------------------------------------------------------------------------------------------------------------
 
