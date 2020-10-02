@@ -109,14 +109,28 @@ esempio Completo
 
 
 Dim numero as Integere
+
+
 numero=Console.ReadLine()
 
 Select Case Numero 
-Case 1                       'se il numero è uguale a uno entra qui
-'istruzzione
-Case 2                        'se invece il numero è 2 entrera qua
+
+
+Case 1       
+
+Console.WriteLine("il numero è 1")
+
+Case 2 
+
+Console.WriteLine("il numero è 2")
+
+
 Case Else  
+
+
 Console.WriteLine("il numero inserito non è valido")
+
+
 End Case 
 -----------------------------------------------------------------------------------------------------------------
 
