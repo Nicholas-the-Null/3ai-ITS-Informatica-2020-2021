@@ -1,6 +1,6 @@
 # repo di tutti i progetti di informatica,sistemi,tep,tcl e altro della mia scuola anno 2020-2021
 
-i nomi delle cartelle seguono questo syle (gg/mm/yyyy)
+i nomi delle cartelle seguono questo style (gg/mm/yyyy)
 
 
 ## piattaforme usate:
