@@ -1,0 +1,8 @@
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\05-10-2020\es13\es13\bin\Debug\es13.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\05-10-2020\es13\es13\bin\Debug\es13.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\05-10-2020\es13\es13\bin\Debug\es13.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\05-10-2020\es13\es13\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\05-10-2020\es13\es13\obj\x86\Debug\es13.vbproj.GenerateResource.Cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\05-10-2020\es13\es13\obj\x86\Debug\es13.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\05-10-2020\es13\es13\obj\x86\Debug\es13.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\05-10-2020\es13\es13\obj\x86\Debug\es13.pdb
