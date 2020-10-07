@@ -22,4 +22,4 @@ i programmi fino  a questa data non hanno il testo dell'esercizio, i prossimi av
 
 
 
-Mantenuto Da    Nicholas
+Mantenuto Da    Nicholas  And Yuri
