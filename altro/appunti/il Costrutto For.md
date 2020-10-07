@@ -26,7 +26,7 @@ Next Indice  '
 
 
 
-Un piccolo esempio Stampare i numeri da 0 a 10
+Un piccolo esempio Stampare i numeri da 0 a 100
 -----------------
 
 
@@ -36,7 +36,7 @@ Dim num as Integer
 
 
 
-for Num = 0 To 10 
+for Num = 0 To 100
 
 
 
@@ -44,4 +44,34 @@ for Num = 0 To 10
       
       
       
-Next Num```
+Next Num
+
+
+```
+
+
+se invece volessimo stampare solo i numeri pari potremmo adoperare la funzione step che ci incrementera il numero di 2
+
+
+
+
+
+
+
+```Visual Basic.net
+Dim num as Integer
+
+
+
+for Num = 0 To 100 Step 2
+
+
+
+      MsgBox(Num)
+      
+      
+      
+Next Num
+
+
+```
