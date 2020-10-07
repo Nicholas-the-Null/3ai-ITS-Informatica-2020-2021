@@ -31,4 +31,4 @@ Mantenuto Da    Nicholas  And Yuri
 
 - [x]  Appunti Info
 - [x]  Esecizi info 
-- []   Altro
+- [ ]   Altro
