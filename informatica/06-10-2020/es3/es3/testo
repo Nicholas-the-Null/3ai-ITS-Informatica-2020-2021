@@ -1,0 +1,16 @@
+un agenzia di noleggio auto
+
+
+
+fa questa tabella con i relativi prezzi GIORNALIERI 
+
+
+30  cilindrata piccola
+50 cilindrata media
+90 cilindrata grande se selezziona cilindra grande c'è la possibilità per 30 euro di aggiungere un navigatore
+
+
+se il noleggio supera i 7 giorni bisognerà applicare uno sconto del 10%  sui prezzi di base
+
+
+Creare un algoritmo che calcoli il costo per un cliente
