@@ -1,5 +1,9 @@
 # Il costrutto for 
 
+riferimenti a pag 34
+
+
+
 
 Il costrutto for si utilizza per ripetere una serie di istruzzioni un numero noto di volte.
 --------------------------------------------------------------------------------------------
@@ -20,3 +24,23 @@ For Indice = numero_di_partenza To To_fine  Step(opzionale è il valore per il q
      
 Next Indice  
 
+
+
+Un piccolo esempio Stampare i numeri da 0 a 10
+-----------------
+
+
+
+Dim num as Integer
+
+
+
+for Num = 0 To 10 
+
+
+
+      MsgBox(Num)
+      
+      
+      
+Next Num
