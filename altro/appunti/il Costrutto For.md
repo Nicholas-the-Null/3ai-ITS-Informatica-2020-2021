@@ -31,7 +31,8 @@ Un piccolo esempio Stampare i numeri da 0 a 10
 
 
 
-'Dim num as Integer
+```Visual Basic.net
+Dim num as Integer
 
 
 
@@ -43,4 +44,4 @@ for Num = 0 To 10
       
       
       
-Next Num'
+Next Num```
