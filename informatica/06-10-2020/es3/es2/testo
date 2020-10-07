@@ -1,0 +1,14 @@
+date 3 date (giorno mese verificare che la terza appartenga al range delle altre 2
+
+
+
+esempio 
+
+
+ 11/01            prima data
+ 
+ 15/08             seconda data
+ 
+ 
+ 
+ la terza puo essere  1<n<2    per esempio puo essere 21/7   ma non potrà essere 15/09
