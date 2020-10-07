@@ -18,7 +18,7 @@ Il costrutto for si utilizza per ripetere una serie di istruzzioni un numero not
 
 
 
-For Indice = numero_di_partenza To To_fine  Step(opzionale è il valore per il quale verrà incrementato di default è 1)
+For Indice = "numero_di_partenza" To "To_fine"  Step(opzionale è il valore per il quale verrà incrementato di default è 1)
 
   istruzzioni
      
