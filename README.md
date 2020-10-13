@@ -7,7 +7,7 @@ i nomi delle cartelle seguono questo style (gg/mm/yyyy)
 informatica= visual studio express 2010 (si 2010, non è uno scherzo)
 
 
-sistemi= visual studio code (linguaggio html)
+sistemi = mousepad (in laboratorio si usa debian)
 
 
 edit del 01/10/2020
@@ -22,13 +22,8 @@ i programmi fino  a questa data non hanno il testo dell'esercizio, i prossimi av
 
 
 
-Mantenuto Da    Nicholas  And Yuri
+Mantenuto Da Nicholas  And Yuri
 
 
 
 
-
-
-- [x]  Appunti Info
-- [x]  Esecizi info 
-- [ ]   Altro
