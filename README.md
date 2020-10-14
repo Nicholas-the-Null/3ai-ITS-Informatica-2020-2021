@@ -27,3 +27,5 @@ Mantenuto Da Nicholas  And Yuri
 
 
 
+Edit del 14/10/2020 
+è stato creato un sito per la ricerca degli appunti https://nicholas-progetti-scuola.github.io/html-site-test-fix.github.io/
