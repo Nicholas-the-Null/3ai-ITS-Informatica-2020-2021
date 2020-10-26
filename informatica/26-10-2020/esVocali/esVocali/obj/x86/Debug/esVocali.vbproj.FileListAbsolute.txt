@@ -1,0 +1,8 @@
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\25-10-2020\esVocali\esVocali\bin\Debug\esVocali.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\25-10-2020\esVocali\esVocali\bin\Debug\esVocali.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\25-10-2020\esVocali\esVocali\bin\Debug\esVocali.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\25-10-2020\esVocali\esVocali\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\25-10-2020\esVocali\esVocali\obj\x86\Debug\esVocali.vbproj.GenerateResource.Cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\25-10-2020\esVocali\esVocali\obj\x86\Debug\esVocali.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\25-10-2020\esVocali\esVocali\obj\x86\Debug\esVocali.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\25-10-2020\esVocali\esVocali\obj\x86\Debug\esVocali.pdb
