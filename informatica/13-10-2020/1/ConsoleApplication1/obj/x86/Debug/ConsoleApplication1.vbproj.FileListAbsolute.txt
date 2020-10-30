@@ -1,0 +1,16 @@
+C:\Users\studente.INF314\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\studente.INF314\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\studente.INF314\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\studente.INF314\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\studente.INF314\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\studente.INF314\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\studente.INF314\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\studente.INF314\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\studente.INF314\Desktop\13-10-2020\1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\studente.INF314\Desktop\13-10-2020\1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\studente.INF314\Desktop\13-10-2020\1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\studente.INF314\Desktop\13-10-2020\1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\studente.INF314\Desktop\13-10-2020\1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\studente.INF314\Desktop\13-10-2020\1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\studente.INF314\Desktop\13-10-2020\1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\studente.INF314\Desktop\13-10-2020\1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
