@@ -1,0 +1,11 @@
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\bin\Debug\1.exe.config
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\bin\Debug\1.exe
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\bin\Debug\1.pdb
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\bin\Debug\1.xml
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\obj\Debug\1.vbprojAssemblyReference.cache
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\obj\Debug\_1.Resources.resources
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\obj\Debug\1.vbproj.GenerateResource.cache
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\obj\Debug\1.vbproj.CoreCompileInputs.cache
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\obj\Debug\1.exe
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\obj\Debug\1.xml
+C:\Users\yuriz\Desktop\CDS\VB\17-11-2020\1\obj\Debug\1.pdb
