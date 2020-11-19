@@ -1,0 +1,10 @@
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\bin\Debug\es7.exe.config
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\bin\Debug\es7.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\bin\Debug\es7.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\bin\Debug\es7.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\obj\Debug\es7.Resources.resources
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\obj\Debug\es7.vbproj.GenerateResource.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\obj\Debug\es7.vbproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\obj\Debug\es7.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\obj\Debug\es7.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es7\es7\obj\Debug\es7.pdb

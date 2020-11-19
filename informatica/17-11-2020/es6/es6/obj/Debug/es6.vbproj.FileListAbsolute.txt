@@ -1,0 +1,11 @@
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\bin\Debug\es6.exe.config
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\bin\Debug\es6.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\bin\Debug\es6.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\bin\Debug\es6.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\obj\Debug\es6.vbprojAssemblyReference.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\obj\Debug\es6.Resources.resources
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\obj\Debug\es6.vbproj.GenerateResource.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\obj\Debug\es6.vbproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\obj\Debug\es6.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\obj\Debug\es6.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es6\es6\obj\Debug\es6.pdb
