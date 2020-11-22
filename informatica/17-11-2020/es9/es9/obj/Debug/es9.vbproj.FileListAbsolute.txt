@@ -1,0 +1,11 @@
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\bin\Debug\es9.exe.config
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\bin\Debug\es9.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\bin\Debug\es9.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\bin\Debug\es9.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\obj\Debug\es9.vbprojAssemblyReference.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\obj\Debug\es9.Resources.resources
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\obj\Debug\es9.vbproj.GenerateResource.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\obj\Debug\es9.vbproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\obj\Debug\es9.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\obj\Debug\es9.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\16-11-2020\es9\es9\obj\Debug\es9.pdb
