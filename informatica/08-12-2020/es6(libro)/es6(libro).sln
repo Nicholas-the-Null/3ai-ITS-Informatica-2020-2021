@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "es6(libro)", "es6(libro)\es6(libro).vbproj", "{6DFDC2DF-EF02-476B-8FA9-BE0A93683289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DFDC2DF-EF02-476B-8FA9-BE0A93683289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFDC2DF-EF02-476B-8FA9-BE0A93683289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFDC2DF-EF02-476B-8FA9-BE0A93683289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFDC2DF-EF02-476B-8FA9-BE0A93683289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86416E1C-DE4C-45DD-9BC1-514D1D623E54}
+	EndGlobalSection
+EndGlobal
