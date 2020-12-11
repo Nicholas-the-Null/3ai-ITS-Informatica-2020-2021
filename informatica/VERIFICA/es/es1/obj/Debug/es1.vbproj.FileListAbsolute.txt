@@ -1,0 +1,11 @@
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\bin\Debug\es1.exe.config
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\bin\Debug\es1.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\bin\Debug\es1.pdb
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\bin\Debug\es1.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\obj\Debug\es1.vbprojAssemblyReference.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\obj\Debug\es1.Resources.resources
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\obj\Debug\es1.vbproj.GenerateResource.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\obj\Debug\es1.vbproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\obj\Debug\es1.exe
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\obj\Debug\es1.xml
+C:\Users\nicho\Desktop\MYPC\scuola\informatica\vERIFICA\es1\es1\obj\Debug\es1.pdb
