@@ -9,5 +9,5 @@ così facendo potremo testare simultaneamente i primi numeri quelli centrali a s
 
 cos' facendo il caso peggiore che ci potrebbe capitare è un numero che è a distanza pari tra la variabile inizio/fine e quella centrale-1/centro+1
 
-l'algoritmo presenta un aumento considerevole di velocita nel trovare il numero che cerchiamo in diversi test è risultato il doppio più veloce di una normale ricerca sequenziale
-e di qualche centesimo di secondo di una ricerca binaria
+l'algoritmo presenta un aumento considerevole di velocita nel trovare il numero che cerchiamo in diversi test è risultato
+il doppio più veloce di una normale ricerca sequenziale e di qualche centesimo di secondo di una ricerca binaria
