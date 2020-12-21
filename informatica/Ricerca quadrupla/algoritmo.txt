@@ -1,1 +1,13 @@
-md
+l'algoritmo di ricerca quadrupla è molto simile a quello di ricerca sequenziale solo che al posto di controllare un numero alla volta ne controlliamo 4.
+
+il primo passo è ricevere in input il vettore, poi bisogna ottenere il suo centro e testare se è numero che cerchiamo.
+una volta fatto questo il nostro algoritmo potrà iniziare.
+le quattro variabile che testeremo sono:
+inizio centro-1 centro+1 e fine
+
+così facendo potremo testare simultaneamente i primi numeri quelli centrali a sinistra quelli centrali a destra e quelli finali.
+
+cos' facendo il caso peggiore che ci potrebbe capitare è un numero che è a distanza pari tra la variabile inizio/fine e quella centrale-1/centro+1
+
+l'algoritmo presenta un aumento considerevole di velocita nel trovare il numero che cerchiamo in diversi test è risultato il doppio più veloce di una normale ricerca sequenziale
+e di qualche centesimo di secondo di una ricerca binaria
